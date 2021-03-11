@@ -1,10 +1,10 @@
 # Sass Practice for ICJ
 
-A calss project for ICJ Spring 2021 with Professor McDonald.
+A class project for ICJ Spring 2021 with Professor McDonald.
 
 Project by Emma Bittner, due Friday, March 12, 2021 at 11:59 pm.
 
-# Lesson to refactor CSS to SCSS
+## Lesson to refactor CSS to SCSS
 
 A template to use in learning Sass. See the [ICJ class](https://github.com/utdata/icj-class#sass) for more info.
 
