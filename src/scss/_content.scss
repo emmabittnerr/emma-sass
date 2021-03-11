@@ -1,0 +1,38 @@
+.content {
+  width: 85%;
+  min-height: 750px;
+  min-width: 600px;
+  background-color: $primary-color;
+
+  > * {
+    padding-left: 30px;
+  }
+
+  p {
+    width: 55%;
+    min-width: 550px;
+    font-size: 1.5rem;
+    color: $secondary-color;
+  }
+
+  img, video {
+    height: 350px;
+    width: 550px;
+    margin-bottom: 30px;
+  }
+
+  a:link {
+    color: $secondary-color;
+    text-decoration: underline;
+  }
+
+  a:visited {
+    color: $secondary-color;
+  }
+
+  ul {
+    list-style-position: inside;
+    list-style-type: disc;
+  }
+}
+// why is this not the right color?? //
